@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLvAOxRa1P+ssD1bfx6M8ttrobiGtzYcjvXWk+GUi2igCNE/JlX+Iz43xHe8Ok2zon9GN8sn6Y7DZa1b7Ft5uQ==",
+  "success": true,
+  "projectFilePath": "D:\\Source Code\\C#\\Fractals\\ZuliaFractalSFML\\ZuliaFractalSFML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chiji\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\chiji\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\chiji\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\chiji\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
